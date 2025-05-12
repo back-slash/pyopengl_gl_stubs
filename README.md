@@ -4,11 +4,17 @@ Detailed Python stubs for the GL library of PyOpenGL.
 
 ## Overview
 
-`pyopengl_gl_stubs` provides comprehensive type stubs for the OpenGL.GL bindings in the PyOpenGL library. These stubs are designed to improve code completion and overall developer productivity when working with in Python.
+`pyopengl_gl_stubs` provides comprehensive type stubs for the OpenGL.GL bindings in the PyOpenGL library. These stubs are designed to improve code completion and overall developer productivity when working in Python.
 
 ## Features
 
 - **Detailed Type Annotations**: Includes precise type definitions for OpenGL functions and constants.
+
+
+## Example
+
+![Example Usage](./docs/example.png)
+
 
 
 ## Contributing
