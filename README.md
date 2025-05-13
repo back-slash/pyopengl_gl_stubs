@@ -10,11 +10,9 @@ Detailed Python stubs for the GL library of PyOpenGL.
 
 - **Detailed Type Annotations**: Includes definitions for OpenGL functions and constants.
 
-
 ## Example
 
 ![Example Usage](./docs/example.png)
-
 
 ## Contributing
 
